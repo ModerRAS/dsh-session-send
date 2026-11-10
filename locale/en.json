@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Session send",
+    "description": "Send a text message to another session in the same workspace."
+  }
+}

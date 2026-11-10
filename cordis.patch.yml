@@ -1,0 +1,4 @@
+- insert:
+    - id: session-send
+      name: '@local/dsh-session-send'
+      config: {}

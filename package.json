@@ -1,0 +1,22 @@
+{
+  "name": "@local/dsh-session-send",
+  "version": "1.0.1",
+  "private": true,
+  "type": "module",
+  "description": "Cross-session direct messaging: session_send tool over sessionController.prompt with same-workspace authorization",
+  "exports": {
+    ".": "./index.js"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    }
+  },
+  "files": [
+    "index.js",
+    "cordis.patch.yml",
+    "locale/en.json",
+    "locale/zh.json",
+    "icon.svg"
+  ]
+}
