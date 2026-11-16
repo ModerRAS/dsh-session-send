@@ -1,9 +1,9 @@
 {
   "name": "@local/dsh-session-send",
-  "version": "1.0.1",
+  "version": "1.4.1",
   "private": true,
   "type": "module",
-  "description": "Cross-session direct messaging: session_send tool over sessionController.prompt with same-workspace authorization",
+  "description": "Cross-session direct messaging for DeepSeek Harness: a foldable agent-relay session_send tool that addresses live and cold sessions by id, title, or latest.",
   "exports": {
     ".": "./index.js"
   },

@@ -1,6 +1,6 @@
 {
   "meta": {
     "title": "Session send",
-    "description": "Send a text message to another session in the same workspace."
+    "description": "Send a text message to another session: foldable agent relay, address by id, title, or latest."
   }
 }

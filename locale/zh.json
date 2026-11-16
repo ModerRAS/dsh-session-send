@@ -1,6 +1,6 @@
 {
   "meta": {
     "title": "会话直发",
-    "description": "向同一工作区的另一个会话即时发送文本消息。"
+    "description": "向另一个会话发送文本消息：可折叠的 Agent 转递，支持按 id、标题或 latest 寻址。"
   }
 }
